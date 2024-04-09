@@ -1,0 +1,268 @@
+REARRANGED AGAIN
+
+
+"1. What is the best way to address climate change?",
+A. Implement a global carbon tax and invest heavily in renewable energy. (Hard Left)
+B. Oppose government intervention; favor market-based solutions. (Hard Right)
+C. Subsidize clean energy and set achievable emission targets. (Moderate Left)
+D. Offer tax incentives for businesses that reduce carbon emissions. (Moderate Right)
+
+"2. What is your view on social welfare programs?",
+A. Support targeted welfare programs with some conditions. (Moderate Left)
+B. Minimize welfare programs in favor of private charity. (Hard Right)
+C. Reform welfare to encourage work and reduce dependency. (Moderate Right)
+D. Expand social welfare programs to provide for all basic needs. (Hard Left)
+
+"3. What is your stance on immigration?",
+A. Strengthen legal immigration processes and secure the borders. (Moderate Right)
+B. Implement strict immigration controls and prioritize national security. (Hard Right)
+C. Advocate for open borders and increased refugee intake. (Hard Left)
+D. Support a path to citizenship for undocumented immigrants. (Moderate Left)
+
+"4. What should be done about gun control?",
+A. Ban all assault weapons and implement strict gun control laws. (Hard Left)
+B. Oppose any additional gun control measures. (Hard Right)
+C. Implement universal background checks and red flag laws. (Moderate Left)
+D. Protect the Second Amendment but support limited restrictions. (Moderate Right)
+
+"5. What is the best approach to foreign policy?",
+A. Support alliances but be cautious with military intervention. (Moderate Left)
+B. Maintain a strong military presence and put national interests first. (Moderate Right)
+C. Favor unilateral action and a strong military to counter global threats. (Hard Right)
+D. Prioritize diplomacy and international cooperation over military action. (Hard Left)
+
+"6. What is your view on the minimum wage?",
+A. Oppose raising the minimum wage; market forces should determine wages. (Hard Right)
+B. Adjust the minimum wage carefully to avoid negative impacts on businesses. (Moderate Right)
+C. Significantly increase the minimum wage to a living wage. (Hard Left)
+D. Raise the minimum wage to keep up with inflation and cost of living. (Moderate Left)
+
+"7. How should healthcare be reformed?",
+A. Reduce government involvement; advocate for free-market healthcare. (Hard Right)
+B. Establish a single-payer healthcare system. (Hard Left)
+C. Promote competition among private insurers to lower costs. (Moderate Right)
+D. Expand public healthcare options but allow private insurance. (Moderate Left)
+
+"8. What is the role of government in education?",
+A. Increase funding for public schools and teachers' salaries. (Moderate Left)
+B. Support school choice, including charter schools and vouchers. (Moderate Right)
+C. Minimize federal control; advocate for local decision-making. (Hard Right)
+D. Free college education for all. (Hard Left)
+
+"9. How should the government address income inequality?",
+A. Implement wealth taxes and redistribute wealth to the poor. (Hard Left)
+B. Create opportunities for upward mobility through education and job training. (Moderate Right)
+C. Increase the minimum wage and support social welfare programs. (Moderate Left)
+D. Encourage free-market policies to stimulate economic growth. (Hard Right)
+
+"10. What approach should be taken to address national debt?",
+A. Prioritize spending cuts and economic growth to reduce debt. (Moderate Right)
+B. Implement significant spending cuts to rapidly reduce national debt. (Hard Right)
+C. Balance the budget through a mix of spending cuts and tax increases. (Moderate Left)
+D. Accept higher debt levels to fund social programs and infrastructure. (Hard Left)
+
+"11. What is the best strategy for economic growth?",
+A. Support a mix of government spending and private-sector incentives. (Moderate Left)
+B. Invest in public infrastructure and services to stimulate the economy. (Hard Left)
+C. Implement broad tax cuts and deregulation to boost the economy. (Hard Right)
+D. Encourage entrepreneurship and reduce government spending. (Moderate Right)
+
+"12. What is your stance on labor unions?",
+A. Strongly support labor unions and the right to collective bargaining. (Hard Left)
+B. Recognize the role of unions but advocate for minimal restrictions on businesses. (Moderate Right)
+C. Favor limiting the power of labor unions to promote business flexibility. (Hard Right)
+D. Support unions but balance their interests with those of businesses. (Moderate Left)
+
+"13. What is your view on abortion?",
+A. Pro-choice but with some limits after the first trimester. (Moderate Left)
+B. Support unrestricted access to abortion at any stage. (Hard Left)
+C. Support making abortion illegal in all or most cases. (Hard Right)
+D. Allow abortions in limited cases; support some restrictions. (Moderate Right)
+
+"14. How should the tax system be reformed?",
+A. Advocate for a flat tax rate to simplify the tax code. (Moderate Right)
+B. Reduce taxes across the board, especially for businesses. (Hard Right)
+C. Implement a progressive tax system where the wealthy pay more. (Hard Left)
+D. Support fair taxes but avoid excessive burdens on the wealthy. (Moderate Left)
+
+"15. What should be the government's role in the economy?",
+A. The government should play a major role in controlling the economy to ensure equity. (Hard Left)
+B. The government should mainly provide a stable environment for economic growth. (Moderate Right)
+C. Minimize government intervention; the free market should dictate the economy. (Hard Right)
+D. Government intervention is necessary in key sectors to protect public interests. (Moderate Left)
+
+"16. How should the government address the housing crisis?",
+A. Provide subsidies for low-income families and support affordable housing projects. (Moderate Left)
+B. Offer tax incentives for developers to build more housing. (Moderate Right)
+C. Deregulate the housing market to increase supply. (Hard Right)
+D. Build public housing and control rents to ensure affordability. (Hard Left)
+
+"17. What approach should be taken towards environmental regulation?",
+A. Enact stringent regulations on industries to protect the environment. (Hard Left)
+B. Reduce regulatory burdens on businesses to promote innovation. (Moderate Right)
+C. Balance environmental protection with economic growth. (Moderate Left)
+D. Prioritize economic growth over environmental regulations. (Hard Right)
+
+"18. What is the best way to deal with crime?",
+A. Support law enforcement and the judicial system to reduce crime. (Moderate Right)
+B. Combine community policing with social programs. (Moderate Left)
+C. Advocate for strict law enforcement and harsh penalties for criminals. (Hard Right)
+D. Focus on rehabilitation and address the root causes of crime. (Hard Left)
+
+"19. How should the nation's infrastructure be updated and maintained?",
+A. Massively increase public spending on green and sustainable infrastructure. (Hard Left)
+B. Public-private partnerships to update infrastructure efficiently. (Moderate Right)
+C. Reduce government involvement; let the private sector lead. (Hard Right)
+D. Invest in infrastructure with a focus on public transport and renewable energy. (Moderate Left)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+OLD
+"What is the best way to address climate change?
+
+A. Implement a global carbon tax and invest heavily in renewable energy. (Hard Left)
+B. Subsidize clean energy and set achievable emission targets. (Moderate Left)
+C. Offer tax incentives for businesses that reduce carbon emissions. (Moderate Right)
+D. Oppose government intervention; favor market-based solutions. (Hard Right)"
+
+"How should healthcare be reformed?
+
+A. Establish a single-payer healthcare system. (Hard Left)
+B. Expand public healthcare options but allow private insurance. (Moderate Left)
+C. Promote competition among private insurers to lower costs. (Moderate Right)
+D. Reduce government involvement; advocate for free-market healthcare. (Hard Right)"
+"What is the role of government in education?
+
+A. Free college education for all. (Hard Left)
+B. Increase funding for public schools and teachers' salaries. (Moderate Left)
+C. Support school choice, including charter schools and vouchers. (Moderate Right)
+D. Minimize federal control; advocate for local decision-making. (Hard Right)"
+
+"What should be done about gun control?
+
+A. Ban all assault weapons and implement strict gun control laws. (Hard Left)
+B. Implement universal background checks and red flag laws. (Moderate Left)
+C. Protect the Second Amendment but support limited restrictions. (Moderate Right)
+D. Oppose any additional gun control measures. (Hard Right)"
+
+"What is your view on abortion?
+
+A. Support unrestricted access to abortion at any stage. (Hard Left)
+B. Pro-choice but with some limits after the first trimester. (Moderate Left)
+C. Allow abortions in limited cases; support some restrictions. (Moderate Right)
+D. Support making abortion illegal in all or most cases. (Hard Right)"
+
+"How should the tax system be reformed?
+
+A. Implement a progressive tax system where the wealthy pay more. (Hard Left)
+B. Support fair taxes but avoid excessive burdens on the wealthy. (Moderate Left)
+C. Advocate for a flat tax rate to simplify the tax code. (Moderate Right)
+D. Reduce taxes across the board, especially for businesses. (Hard Right)"
+
+"What is the best approach to foreign policy?
+
+A. Prioritize diplomacy and international cooperation over military action. (Hard Left)
+B. Support alliances but be cautious with military intervention. (Moderate Left)
+C. Maintain a strong military presence and put national interests first. (Moderate Right)
+D. Favor unilateral action and a strong military to counter global threats. (Hard Right)"
+
+"What is your stance on immigration?
+
+A. Advocate for open borders and increased refugee intake. (Hard Left)
+B. Support a path to citizenship for undocumented immigrants. (Moderate Left)
+C. Strengthen legal immigration processes and secure the borders. (Moderate Right)
+D. Implement strict immigration controls and prioritize national security. (Hard Right)"
+
+"How should the government address income inequality?
+
+A. Implement wealth taxes and redistribute wealth to the poor. (Hard Left)
+B. Increase the minimum wage and support social welfare programs. (Moderate Left)
+C. Create opportunities for upward mobility through education and job training. (Moderate Right)
+D. Encourage free-market policies to stimulate economic growth. (Hard Right)"
+
+"What is the best way to deal with crime?
+
+A. Focus on rehabilitation and address the root causes of crime. (Hard Left)
+B. Combine community policing with social programs. (Moderate Left)
+C. Support law enforcement and the judicial system to reduce crime. (Moderate Right)
+D. Advocate for strict law enforcement and harsh penalties for criminals. (Hard Right)"
+
+"What approach should be taken towards environmental regulation?
+
+A. Enact stringent regulations on industries to protect the environment. (Hard Left)
+B. Balance environmental protection with economic growth. (Moderate Left)
+C. Reduce regulatory burdens on businesses to promote innovation. (Moderate Right)
+D. Prioritize economic growth over environmental regulations. (Hard Right)"
+
+"What is the best strategy for economic growth?
+
+A. Invest in public infrastructure and services to stimulate the economy. (Hard Left)
+B. Support a mix of government spending and private-sector incentives. (Moderate Left)
+C. Encourage entrepreneurship and reduce government spending. (Moderate Right)
+D. Implement broad tax cuts and deregulation to boost the economy. (Hard Right)"
+
+"How should the government address the housing crisis?
+
+A. Build public housing and control rents to ensure affordability. (Hard Left)
+B. Provide subsidies for low-income families and support affordable housing projects. (Moderate Left)
+C. Offer tax incentives for developers to build more housing. (Moderate Right)
+D. Deregulate the housing market to increase supply. (Hard Right)"
+
+"What is your view on social welfare programs?
+
+A. Expand social welfare programs to provide for all basic needs. (Hard Left)
+B. Support targeted welfare programs with some conditions. (Moderate Left)
+C. Reform welfare to encourage work and reduce dependency. (Moderate Right)
+D. Minimize welfare programs in favor of private charity. (Hard Right)"
+
+"How should the nation's infrastructure be updated and maintained?
+
+A. Massively increase public spending on green and sustainable infrastructure. (Hard Left)
+B. Invest in infrastructure with a focus on public transport and renewable energy. (Moderate Left)
+C. Public-private partnerships to update infrastructure efficiently. (Moderate Right)
+D. Reduce government involvement; let the private sector lead. (Hard Right)"
+
+"What is your stance on labor unions?
+
+A. Strongly support labor unions and the right to collective bargaining. (Hard Left)
+B. Support unions but balance their interests with those of businesses. (Moderate Left)
+C. Recognize the role of unions but advocate for minimal restrictions on businesses. (Moderate Right)
+D. Favor limiting the power of labor unions to promote business flexibility. (Hard Right)"
+
+"What should be the government's role in the economy?
+
+A. The government should play a major role in controlling the economy to ensure equity. (Hard Left)
+B. Government intervention is necessary in key sectors to protect public interests. (Moderate Left)
+C. The government should mainly provide a stable environment for economic growth. (Moderate Right)
+D. Minimize government intervention; the free market should dictate the economy. (Hard Right)"
+
+"What is your view on the minimum wage?
+
+A. Significantly increase the minimum wage to a living wage. (Hard Left)
+B. Raise the minimum wage to keep up with inflation and cost of living. (Moderate Left)
+C. Adjust the minimum wage carefully to avoid negative impacts on businesses. (Moderate Right)
+D. Oppose raising the minimum wage; market forces should determine wages. (Hard Right)"
+
+"What approach should be taken to address national debt?
+
+A. Accept higher debt levels to fund social programs and infrastructure. (Hard Left)
+B. Balance the budget through a mix of spending cuts and tax increases. (Moderate Left)
+C. Prioritize spending cuts and economic growth to reduce debt. (Moderate Right)
+D. Implement significant spending cuts to rapidly reduce national debt. (Hard Right)"
+
+
